@@ -1,4 +1,4 @@
-FROM rust:1.40.0-slim-buster AS build
+FROM rust:1.41.1-slim-buster AS build
 
 LABEL maintainer="Chiliseed LTD"
 
